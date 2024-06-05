@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Morning</name>
+   <tag></tag>
+   <elementGuidId>463ef5a7-543f-42c4-bb7b-f2e8ac4c794e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.customDropDown_dropdown_btn__CXoyx.btn-none</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Evening'])[2]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Morning&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c4eb81fc-e0b1-494d-84e7-4bcb952ba9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customDropDown_dropdown_btn__CXoyx btn-none </value>
+      <webElementGuid>d193e0ea-2d46-47ee-9355-fb8202896265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Morning</value>
+      <webElementGuid>e5124008-699e-48d9-bdee-db0b05fbac33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page modal-open&quot;]/div[@class=&quot;fade addressCard_add_address_form_modal__4uoBC modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;createNewAddressForm_location_form__DTt49&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;select-input customSelect_select_input__DUokL&quot;]/div[@class=&quot;customDropDown_dropdown_main_wrap__KWIv0 drop_down_wrap  show dropdown&quot;]/div[@class=&quot;dropdown-menu show dropdown-menu-md-end&quot;]/a[@class=&quot;dropdown-item&quot;]/button[@class=&quot;customDropDown_dropdown_btn__CXoyx btn-none&quot;]</value>
+      <webElementGuid>b29e6647-81ba-4f38-9df6-d9e085b4f782</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evening'])[2]/following::button[1]</value>
+      <webElementGuid>4d5eb8e5-e614-4cfc-993d-b3c40d710834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred delivery time*'])[1]/following::button[1]</value>
+      <webElementGuid>f2b16bf4-f960-4bc8-bb49-5a5fe01b869b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evening'])[3]/preceding::button[1]</value>
+      <webElementGuid>4ae725a3-9f8c-455d-8549-82b5f0af1f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[2]/preceding::button[2]</value>
+      <webElementGuid>7ac3d295-cc0f-4159-b630-e83036171b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Morning']/parent::*</value>
+      <webElementGuid>a8a43a3f-846b-4acb-8b09-e39202654326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>6dcbe38d-8916-4c09-84b9-a2e1c16ad837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Morning' or . = 'Morning')]</value>
+      <webElementGuid>55156096-f9c4-449c-835a-4d35ee8a072d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Home</name>
+   <tag></tag>
+   <elementGuidId>af8c7c5a-ee73-4738-9cff-ddd440f8ff49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Address*'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-check-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Home&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>259eda00-ea09-4206-af7c-750ed345d7ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Type of Address*_1</value>
+      <webElementGuid>068f7489-058a-45fd-b566-9c967f5346a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>8dc4d1ef-2426-4c7f-8eee-cd66360f1d45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>e1bd80cc-dcfb-464d-9ce7-20176270ea84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page bottom_space&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;guestCheckout_guest_checkout__EkLau&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;guestCheckout_checkout_page_content__uj71W&quot;]/div[@class=&quot;guestshipping_shipping_methods__aUhdV&quot;]/div[@class=&quot;guestshipping_shipping_methods_container__2_Al_&quot;]/div[@class=&quot;guestAddressForm_guest_address_form_wrapper__0ATO0&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 guestAddressForm_actions__VhsVc&quot;]/div[@class=&quot;customRadio_radio_button___t_Jh form-group radio_button_wrapper&quot;]/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>333c3590-3484-450f-bdce-1dd396f8b7f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Address*'])[1]/following::label[1]</value>
+      <webElementGuid>b2691dc3-a71c-4121-a10c-23a9ec9c7a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Morning'])[1]/following::label[2]</value>
+      <webElementGuid>aafd5d2e-0107-476a-bd39-2d3997c0dcd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office'])[1]/preceding::label[1]</value>
+      <webElementGuid>24308bcf-6c7e-42c6-bdeb-322094db155e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/preceding::label[2]</value>
+      <webElementGuid>857f24be-ee2e-431f-b585-b0b840b950c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/label</value>
+      <webElementGuid>61e7017a-ceca-4c93-b42b-5bdcd38a7981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>a7ef3f91-1cbe-416f-a00f-86413b3c20d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

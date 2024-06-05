@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Country</name>
+   <tag></tag>
+   <elementGuidId>55b2f686-5a42-4760-9d9c-dcfa07fd5cd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Email*'])[1]/following::label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Country&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c40ad810-a1da-451c-9a47-2dee128395db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Country</value>
+      <webElementGuid>7e11e15f-6da2-43f2-9e50-a33d12fbb93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page bottom_space&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;guestCheckout_guest_checkout__EkLau&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;guestCheckout_checkout_page_content__uj71W&quot;]/div[@class=&quot;guestshipping_shipping_methods__aUhdV&quot;]/div[@class=&quot;guestshipping_shipping_methods_container__2_Al_&quot;]/div[@class=&quot;guestAddressForm_guest_address_form_wrapper__0ATO0&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;textInput_text_input__v0Upl text_input&quot;]/label[1]</value>
+      <webElementGuid>ae9f6ad3-2d46-4749-be2f-f4f5f1ab8785</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email*'])[1]/following::label[2]</value>
+      <webElementGuid>97f94abf-eb86-4c5b-9ba9-fffd3d3b6e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City*'])[1]/preceding::label[1]</value>
+      <webElementGuid>e19ff501-bd65-45ee-8b71-3bb2c1145f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Street*'])[1]/preceding::label[2]</value>
+      <webElementGuid>288a6e84-235b-49f0-9823-31fb427d0d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Country']/parent::*</value>
+      <webElementGuid>525906b4-ab1f-441c-9932-abac76375d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/label</value>
+      <webElementGuid>92e1f398-7f19-4059-ba51-1a389180537a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Country' or . = 'Country')]</value>
+      <webElementGuid>6ae482c7-ea1b-49f2-81f9-7ce0fb46aca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

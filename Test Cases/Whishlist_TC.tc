@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Whishlist_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe8cfa6d-232d-45ef-820a-8d8e1e464d6d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9cdde2f5-b054-472e-9e4c-22af4dd007e7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>002e38e4-0e8d-4010-860b-5211d46a91af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ecc30d3-7b42-467f-acec-481bc360ad97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'manikandanr.r+14@webandcrafts.com'</defaultValue>
+      <description></description>
+      <id>9cdde2f5-b054-472e-9e4c-22af4dd007e7</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tester008'</defaultValue>
+      <description></description>
+      <id>002e38e4-0e8d-4010-860b-5211d46a91af</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ecc30d3-7b42-467f-acec-481bc360ad97</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

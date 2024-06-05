@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Quantity</name>
+   <tag></tag>
+   <elementGuidId>28c6235f-87c0-4de9-a002-b494e921f236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.quantityBlock_qty_label__zJRHK</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[3]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Quantity&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>29a2a5d1-3715-4ea0-a6fc-0a4c276684f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quantityBlock_qty_label__zJRHK</value>
+      <webElementGuid>5c572c8d-257c-4c09-8aa5-073e2ea40336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quantity </value>
+      <webElementGuid>db20bfd4-e88f-407c-b558-5accf87c78db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;productFullDetail_product_full_detail__pQwPr pdp_page  in_stock&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;productFullDetail_product_full_detail_wrapper__cTvl6&quot;]/div[@class=&quot;productFullDetail_right_wrap__LgcNY d-none d-lg-block&quot;]/div[@class=&quot;productFullDetail_product_details_action__uTM_W&quot;]/div[@class=&quot;quantityBlock_quantity_block__UB2tZ&quot;]/div[@class=&quot;quantityBlock_quantity_box__HXxlm&quot;]/span[@class=&quot;quantityBlock_qty_label__zJRHK&quot;]</value>
+      <webElementGuid>a29a811f-1221-4d88-8f3f-dc4f2acac10f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[3]/following::span[1]</value>
+      <webElementGuid>381e9a49-045f-4e1f-b058-197ad03fc8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QAR'])[4]/following::span[3]</value>
+      <webElementGuid>0440bc93-8c47-4a72-89df-c08720126903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[1]</value>
+      <webElementGuid>77b169d7-af33-4a6c-a45c-93110c8c5783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::span[2]</value>
+      <webElementGuid>8fb118f0-971f-4e2c-9852-38069f06fd35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quantity']/parent::*</value>
+      <webElementGuid>6fbd73e3-c9fd-470e-b6bd-57ab97bd8bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>380d1296-460a-4476-937d-00619fb01060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Quantity ' or . = 'Quantity ')]</value>
+      <webElementGuid>811a59e7-892e-4f39-a49b-4810a8a5f0ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

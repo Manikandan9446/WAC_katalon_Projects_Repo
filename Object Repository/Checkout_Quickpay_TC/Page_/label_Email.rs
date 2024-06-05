@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Email</name>
+   <tag></tag>
+   <elementGuidId>184bbdc2-3547-439a-a6d2-7874c5234b98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name*'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Email*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a564546a-a01b-445a-bff7-f8b2ef53af3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email*</value>
+      <webElementGuid>dcba470a-dc61-43b5-b629-c1fec087bc45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page bottom_space&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;guestCheckout_guest_checkout__EkLau&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;guestCheckout_checkout_page_content__uj71W&quot;]/div[@class=&quot;guestshipping_shipping_methods__aUhdV&quot;]/div[@class=&quot;guestshipping_shipping_methods_container__2_Al_&quot;]/div[@class=&quot;guestAddressForm_guest_address_form_wrapper__0ATO0&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;textInput_text_input__v0Upl text_input&quot;]/label[1]</value>
+      <webElementGuid>81455344-d35b-44f5-a756-7600b33b42b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name*'])[1]/following::label[1]</value>
+      <webElementGuid>6e8b4d68-6b54-4cc7-9582-2ed87ca3fdaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name*'])[1]/following::label[2]</value>
+      <webElementGuid>99a3c727-f83b-4f3f-b0bb-ce5dae9aec52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/preceding::label[2]</value>
+      <webElementGuid>48a944ad-0c2b-4eb6-a39f-a65f73761891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email*']/parent::*</value>
+      <webElementGuid>dcae8a0d-be84-4496-a5cc-7057c83d0562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>aa239ef9-4d66-41ac-9cc5-d1d57ae15fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Email*' or . = 'Email*')]</value>
+      <webElementGuid>d22f0c48-6dbd-400b-a625-dcb1fc44d396</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

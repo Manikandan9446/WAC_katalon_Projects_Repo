@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Store-Pickup</name>
+   <tag></tag>
+   <elementGuidId>e46fe586-ef05-4809-94b2-9c98d78b92eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[3]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Store-Pickup&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c45b6e3a-eec3-4d0d-b08e-b5bebd33a4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customDropDown_dropdown_btn__CXoyx btn-none </value>
+      <webElementGuid>1666b0e1-1c9b-4b33-8a71-5c3d1ad7f1b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Store-Pickup</value>
+      <webElementGuid>fe6cc4dc-9106-4e20-97a5-862964004334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;faq_faq__8zTaY&quot;]/form[1]/div[@class=&quot;container&quot;]/div[@class=&quot;faq_drop_down_wrapper__5j7dW&quot;]/div[@class=&quot;select-input customSelect_select_input__DUokL&quot;]/div[@class=&quot;customDropDown_dropdown_main_wrap__KWIv0 drop_down_wrap  show dropdown&quot;]/div[@class=&quot;dropdown-menu show dropdown-menu-md-end&quot;]/a[@class=&quot;dropdown-item&quot;]/button[@class=&quot;customDropDown_dropdown_btn__CXoyx btn-none&quot;]</value>
+      <webElementGuid>4b256548-7695-4282-916e-818d5a1fabce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[3]/following::button[1]</value>
+      <webElementGuid>879a2394-8f74-49fb-9d73-bd82a6a811fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[1]/following::button[2]</value>
+      <webElementGuid>7abaa8ca-f219-4ba4-abb4-d71504eec13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return &amp; Refunds'])[1]/preceding::button[1]</value>
+      <webElementGuid>bd7cf15a-4c94-4e21-9d00-1a90d800b907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why should I order online?'])[1]/preceding::button[2]</value>
+      <webElementGuid>003f78a2-3fb6-4ff0-8189-456298140bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Store-Pickup']/parent::*</value>
+      <webElementGuid>f4ecfd3a-e85e-4723-97fb-fa5f3960eb3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/button</value>
+      <webElementGuid>0cb06af2-1dda-488e-9557-b392e4eaff19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Store-Pickup' or . = 'Store-Pickup')]</value>
+      <webElementGuid>4bb51ac7-788c-40a2-b9ac-df2a705173bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

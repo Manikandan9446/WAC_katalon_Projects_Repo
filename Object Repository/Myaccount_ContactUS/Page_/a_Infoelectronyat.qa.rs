@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Infoelectronyat.qa</name>
+   <tag></tag>
+   <elementGuidId>bc998c00-6b98-4d5f-ac51-4c937b3eaa7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Info@electronyat.qa')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > div.contactInfo_content_wrapper__mRoL6 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Info@electronyat.qa&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c2c7a7a7-17c0-48ef-aae0-91cdb766c919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>mailto:Info@electronyat.qa</value>
+      <webElementGuid>fb2d6537-effd-43b0-a528-6ff91af1aa4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Info@electronyat.qa </value>
+      <webElementGuid>33999a8f-42a2-44ef-868e-fd9f780d5134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;contactUs_contact_us___JNmP&quot;]/section[@class=&quot;contactInfo_contact_info_section__dbW6Y&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;contactInfo_contactInfo_list___zACV&quot;]/li[3]/div[@class=&quot;contactInfo_content_wrapper__mRoL6&quot;]/a[1]</value>
+      <webElementGuid>f1da4db1-19f8-4785-8503-7699e8ca392c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Info@electronyat.qa')]</value>
+      <webElementGuid>31370ad0-3591-46e4-8fc5-4473f983ae67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::a[3]</value>
+      <webElementGuid>2f17d8c4-3c25-4e9b-8f1f-de5f6272e5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[3]</value>
+      <webElementGuid>b343d409-fff8-416e-b010-e393bdba8822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Let’s get in touch'])[1]/preceding::a[1]</value>
+      <webElementGuid>dadec01f-44d5-4953-a20e-9704414ebdcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name*'])[1]/preceding::a[1]</value>
+      <webElementGuid>8e556ccb-8e97-4b4a-bb29-c484f22588a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Info@electronyat.qa']/parent::*</value>
+      <webElementGuid>5c3a1f60-b845-46f8-ba09-17fba2d755bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'mailto:Info@electronyat.qa')]</value>
+      <webElementGuid>9e69d710-1637-4b00-bbad-5d7bd92c86d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div[2]/a</value>
+      <webElementGuid>de507ef7-e3b2-4cba-ba5d-5a8656311b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'mailto:Info@electronyat.qa' and (text() = 'Info@electronyat.qa ' or . = 'Info@electronyat.qa ')]</value>
+      <webElementGuid>81fc69cc-e917-42bb-9997-9d61fb845b08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Remove</name>
+   <tag></tag>
+   <elementGuidId>72b5d39e-50c9-450b-a257-cea2d8ba2028</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-none.addressCard_remove_btn__UX1gt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Remove&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa84a5d2-bf2d-4202-a6cd-a74379441262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-none addressCard_remove_btn__UX1gt</value>
+      <webElementGuid>9b12f3a6-8b43-4655-a39b-3012e8e240a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>1bb39f48-fe02-4619-8d99-dd594e66a652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]/div[@class=&quot;layout_account_layout_content__5vlt7&quot;]/div[@class=&quot;address_address_list__H6zWI&quot;]/div[@class=&quot;address_addressList_body__ORfpM&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;addressCard_address_card__PYkIu  address-card&quot;]/div[@class=&quot;addressCard_action_wrapper__YkEHW addressCard_address_page__5mKCD address-card-action-wrap&quot;]/button[@class=&quot;btn-none addressCard_remove_btn__UX1gt&quot;]</value>
+      <webElementGuid>ef10033a-4a3d-405d-a042-f42713217ac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      <webElementGuid>980e51c6-83f2-4b5e-b3a8-47b7e637772a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred Delivery Time'])[1]/following::button[2]</value>
+      <webElementGuid>9ce78fb3-8ef1-455d-979e-40fd33db50b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Quote'])[1]/preceding::button[1]</value>
+      <webElementGuid>5a9bcb5e-6dff-4ace-900c-5e3d13df8945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Categories'])[2]/preceding::button[2]</value>
+      <webElementGuid>5ef41a7f-9776-4021-b493-8f843a43c8fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove']/parent::*</value>
+      <webElementGuid>80e7165c-ebf2-4922-bee3-51ad067cc26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>467ee616-7cee-4a77-abb7-533da7b5a8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Remove' or . = 'Remove')]</value>
+      <webElementGuid>3b855851-46fb-426f-8be5-69e104faa197</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

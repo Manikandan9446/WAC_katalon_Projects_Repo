@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Orders</name>
+   <tag></tag>
+   <elementGuidId>61b835d6-0a7b-4d6d-9417-45ceb413a1a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Orders')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.customDropDown_drop_down_link__7RYhs.selected.d-flex.align-items-center.drop_down_link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Orders&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>154cd4f8-3e63-4c23-89bb-b948193447b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customDropDown_drop_down_link__7RYhs selected d-flex align-items-center  drop_down_link </value>
+      <webElementGuid>6c74420a-f78f-4d84-ba22-0f2ab83d3897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Choose your queries</value>
+      <webElementGuid>db72ebb6-d3bd-4dae-ac8a-d32c188cc5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Orders</value>
+      <webElementGuid>1ee37557-b27e-4a69-a46c-b951b7d286af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;faq_faq__8zTaY&quot;]/form[1]/div[@class=&quot;container&quot;]/div[@class=&quot;faq_drop_down_wrapper__5j7dW&quot;]/div[@class=&quot;select-input customSelect_select_input__DUokL&quot;]/div[@class=&quot;customDropDown_dropdown_main_wrap__KWIv0 drop_down_wrap  dropdown&quot;]/a[@class=&quot;customDropDown_drop_down_link__7RYhs selected d-flex align-items-center  drop_down_link&quot;]</value>
+      <webElementGuid>dd2cb4e1-95ee-47cf-8124-f0ad332548ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Orders')]</value>
+      <webElementGuid>4c4bd900-6f59-4a69-9ee0-68ed44bca5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; FAQs'])[1]/following::a[1]</value>
+      <webElementGuid>10091dc4-0605-485e-9357-b29398bb39f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[1]</value>
+      <webElementGuid>cd12763f-197e-4aa1-a8dd-19281aa7988b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::a[1]</value>
+      <webElementGuid>47335134-fe9c-4685-9562-885c5294a3f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping'])[1]/preceding::a[2]</value>
+      <webElementGuid>30444ef9-79cf-42b5-bd55-a3b8b580d185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[22]</value>
+      <webElementGuid>de324eaa-80ab-4b0f-b492-23f4a834bfed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/a</value>
+      <webElementGuid>78c55ea5-f125-4d01-9644-971f5319f858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Orders' or . = 'Orders')]</value>
+      <webElementGuid>44ceed25-0b69-4c15-9a60-7b4edfa40f68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

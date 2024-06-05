@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_97457557562Edit</name>
+   <tag></tag>
+   <elementGuidId>2d281971-ca2f-4c55-94c3-3e049b2f82f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;+97457557562Edit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aebba9b2-47ae-4554-90cf-ee6835a13411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accountInfoUpdate_account_info_data__p_Rd8</value>
+      <webElementGuid>84702ee8-f0be-434a-af52-e08567663219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+97457557562Edit</value>
+      <webElementGuid>1071cc50-a649-40f3-92f8-47fae1918995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]/div[@class=&quot;layout_account_layout_content__5vlt7&quot;]/div[@class=&quot;profile_profile__54L7b&quot;]/div[@class=&quot;profile_account_info_form__jSZ1b form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;accountInfoUpdate_account_info_update__fv8DH&quot;]/div[@class=&quot;accountInfoUpdate_account_info__kAazK&quot;]/div[@class=&quot;accountInfoUpdate_account_info_data__p_Rd8&quot;]</value>
+      <webElementGuid>ed9d31fd-a697-462e-afed-d8fcb735836c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::div[1]</value>
+      <webElementGuid>b20ab6c1-c28b-40cd-b4ff-8bd5f56904d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[4]</value>
+      <webElementGuid>bcbe8f2a-8a63-4066-bc9e-c6e7288bb96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Quote'])[1]/preceding::div[14]</value>
+      <webElementGuid>a91744e3-9dd5-451f-b710-3cc4501943c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>ac1a0bb2-4a96-4f30-aa87-953649d29b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+97457557562Edit' or . = '+97457557562Edit')]</value>
+      <webElementGuid>3ed35c5b-506c-4e31-bc4d-956fe4f6e167</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

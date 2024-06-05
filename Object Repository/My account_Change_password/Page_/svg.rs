@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>f20bdf38-9847-47ab-8a8e-78f852c42fa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='New Password*'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=complementary >> internal:role=button >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6b571a54-7d70-4aad-a700-216b7195a5d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>341b5e87-5b9d-414f-b07a-b23c221114db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>d911dac1-5dd6-49e9-b4f6-704f36fdcc72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 1205 1024</value>
+      <webElementGuid>240e0e13-0dc8-41f5-aa5d-fc7a182c615e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>35cf18bb-488c-403e-b6b8-66148665ce35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]/div[@class=&quot;layout_account_layout_content__5vlt7&quot;]/div[@class=&quot;resetPassword_resetpassword_formWrap__QmMdz&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;form_field_wrapper password_form_field_wrapper__8krF9&quot;]/button[@class=&quot;btn-none btn-show password_btn_show__TtiDT&quot;]/svg[1]</value>
+      <webElementGuid>39ea093a-c192-4bc9-a27d-91eb36b3c224</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Password*'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>513437c8-bad9-4a28-9141-a188ca7c94e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Password*'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>0a5c939f-c536-4b97-aec4-d92c7a61ce76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm New Password*'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c0fc1133-b80c-4dfb-bf55-0cb237f97526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b66db83b-5c7a-43e5-adb7-dde0715c6b93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

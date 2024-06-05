@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Email</name>
+   <tag></tag>
+   <elementGuidId>5abf2746-8d31-420f-a005-3f94d8599e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > div.contactInfo_content_wrapper__mRoL6 > p.contactInfo_content_title__ulVia</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Email&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ec47fc61-fff4-4114-bf21-98d3caba6883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contactInfo_content_title__ulVia</value>
+      <webElementGuid>8385c3e1-d682-45b1-b2db-efd86a9c8d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>3da7a343-d2f7-4d7a-b189-df3b362fff8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;contactUs_contact_us___JNmP&quot;]/section[@class=&quot;contactInfo_contact_info_section__dbW6Y&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;contactInfo_contactInfo_list___zACV&quot;]/li[3]/div[@class=&quot;contactInfo_content_wrapper__mRoL6&quot;]/p[@class=&quot;contactInfo_content_title__ulVia&quot;]</value>
+      <webElementGuid>f24ba93e-dfa1-402a-a23c-9e61dc437276</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::p[3]</value>
+      <webElementGuid>0e92fa3e-102a-4df8-b4f7-07b7d7edace9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::p[3]</value>
+      <webElementGuid>51796049-b7e0-4e48-8592-075b68e8b3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info@electronyat.qa'])[1]/preceding::p[1]</value>
+      <webElementGuid>d83e53fa-79f3-4bab-99f4-21fa2387a033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Let’s get in touch'])[1]/preceding::p[1]</value>
+      <webElementGuid>9bb50b6f-eb5e-4a21-af07-f00eddd856e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email']/parent::*</value>
+      <webElementGuid>e57a8c61-2150-48fd-953c-f32a3685a017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div[2]/p</value>
+      <webElementGuid>354114e4-abda-45d8-a09f-753d7d4e8697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>3d49e3bf-7f86-4ace-93f5-de2ba5040a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

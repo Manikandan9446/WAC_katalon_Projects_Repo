@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_mnaikandan456yopmail.com</name>
+   <tag></tag>
+   <elementGuidId>6f2d9dbd-f1c3-461d-b7a5-5fb801cf96f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Placed Successfully'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.paymentReceipt_customer_invoice__czGCG > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;mnaikandan456@yopmail.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7b1ae170-22d2-4a70-9f13-7d271a9c91cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mnaikandan456@yopmail.com</value>
+      <webElementGuid>127102dd-d0ce-418f-b123-22688718864d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/section[@class=&quot;paymentReceipt_payment_receipt__T1D78&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;paymentReceipt_payment_receipt_wrapper__18z3_&quot;]/div[@class=&quot;paymentReceipt_order_success__fWRlu&quot;]/p[@class=&quot;paymentReceipt_customer_invoice__czGCG&quot;]/span[1]</value>
+      <webElementGuid>477d7aba-067f-439d-aa61-39cea3d4f219</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Placed Successfully'])[1]/following::span[1]</value>
+      <webElementGuid>f6fb4d5c-64f3-4183-996a-d649d3f42268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::span[1]</value>
+      <webElementGuid>9d9a46a2-a806-48b1-be06-31414c983473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::span[1]</value>
+      <webElementGuid>4d198ec6-abeb-471c-b5c9-475b1f2972ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Address'])[1]/preceding::span[1]</value>
+      <webElementGuid>e16ac24e-4a4a-4f0a-9bdf-6562aa2ca840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mnaikandan456@yopmail.com']/parent::*</value>
+      <webElementGuid>8945af80-4b70-482d-ab80-5c712c3ad548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>74a7d5d4-3e64-420a-85cd-1e4e1c9c163b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'mnaikandan456@yopmail.com' or . = 'mnaikandan456@yopmail.com')]</value>
+      <webElementGuid>2725d9a1-b968-48f5-bc4c-bb6da65a4581</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

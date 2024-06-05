@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Morning</name>
+   <tag></tag>
+   <elementGuidId>f8f25167-4c7d-47b6-9cc9-10eeb869381d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred Delivery Time'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Morning&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>655aaa08-84d2-479c-8b4e-d2a614a7b67c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Morning</value>
+      <webElementGuid>75d61859-4830-45c4-8aad-aa0c1b0b6377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]/div[@class=&quot;layout_account_layout_content__5vlt7&quot;]/div[@class=&quot;address_address_list__H6zWI&quot;]/div[@class=&quot;address_addressList_body__ORfpM&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;addressCard_address_card__PYkIu  address-card&quot;]/div[@class=&quot;addressCard_address__vAfEl&quot;]/div[@class=&quot;addressCard_address_contact__4OqZJ&quot;]/div[@class=&quot;addressCard_address_contact_item__DSWAc&quot;]/p[1]</value>
+      <webElementGuid>4bb9ce03-40b3-42a7-aca0-a0d21147a38f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred Delivery Time'])[1]/following::p[1]</value>
+      <webElementGuid>fe6589c0-ca27-4a51-97e3-e45d23bbf8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::p[2]</value>
+      <webElementGuid>e384dd64-b109-4aa4-8fd3-aac9d7a00ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::p[1]</value>
+      <webElementGuid>47ac221f-e925-4304-8beb-65e986c40043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::p[1]</value>
+      <webElementGuid>1df1f56b-674e-43c8-9040-fa1172060723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Morning']/parent::*</value>
+      <webElementGuid>75b475d1-828f-47e7-ad93-5a2645b2b080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>557cf416-ec8e-40b6-aff8-f5b8ad083cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Morning' or . = 'Morning')]</value>
+      <webElementGuid>aeb477e2-b186-4d44-9223-c114298caa4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

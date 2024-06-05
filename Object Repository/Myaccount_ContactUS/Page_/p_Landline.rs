@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Landline</name>
+   <tag></tag>
+   <elementGuidId>e83c2bc0-c5ba-4c33-9f29-883fcab318ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > div.contactInfo_content_wrapper__mRoL6 > p.contactInfo_content_title__ulVia</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Landline&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>269e5e87-2439-47fd-ad39-9d77e7a66ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contactInfo_content_title__ulVia</value>
+      <webElementGuid>a70dbef9-3909-439a-80f9-616b731d49cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Landline</value>
+      <webElementGuid>538dffdf-0e75-4e4a-81b6-2d00b8b014ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;contactUs_contact_us___JNmP&quot;]/section[@class=&quot;contactInfo_contact_info_section__dbW6Y&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;contactInfo_contactInfo_list___zACV&quot;]/li[2]/div[@class=&quot;contactInfo_content_wrapper__mRoL6&quot;]/p[@class=&quot;contactInfo_content_title__ulVia&quot;]</value>
+      <webElementGuid>0bf387cd-14cb-4e41-8b6e-724c3bb0014d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::p[2]</value>
+      <webElementGuid>64d9421e-ddbe-45a2-bb5e-e27a7a99bc37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::p[2]</value>
+      <webElementGuid>ca15f8bb-3fd3-4c8b-a6b7-6c663abd95fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info@electronyat.qa'])[1]/preceding::p[2]</value>
+      <webElementGuid>4a60aa67-4b5d-4303-9db8-574e2c95bd1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Let’s get in touch'])[1]/preceding::p[2]</value>
+      <webElementGuid>eea6f0f3-bd1b-43ce-a38b-7e5a1b510a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Landline']/parent::*</value>
+      <webElementGuid>08f6522b-8a8b-474e-9e74-11820ab8e99c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/p</value>
+      <webElementGuid>cb40402d-007e-4e75-8f72-e36293640f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Landline' or . = 'Landline')]</value>
+      <webElementGuid>c0c77197-6428-4e3b-ba78-be88ca71914c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

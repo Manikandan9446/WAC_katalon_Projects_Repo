@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_THello Testaswathi.s22webandcrafts.comD_8f6223</name>
+   <tag></tag>
+   <elementGuidId>283c1879-e545-43ea-b470-d359483d337d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.layout_account_layout_wrapper___uz5N</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;THello Test!aswathi.s+22@webandcrafts.comDashboardProfileOrdersAddressesReviews &quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db376835-3575-4ab3-bed8-50a8ad151aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout_account_layout_wrapper___uz5N</value>
+      <webElementGuid>c611b020-cfe8-48de-80bd-50d21715d5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>THello Test!aswathi.s+22@webandcrafts.comDashboardProfileOrdersAddressesReviews &amp; RatingsHelp &amp; FAQsLeave a FeedbackChange PasswordLogout Home Categories Cart Wishlist Account OrdersOrder Time:All OrdersRecentDeliveredCancelledReturnedNo Orders to Show</value>
+      <webElementGuid>8abddcab-6761-41f4-88fc-3bf5cef85425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]</value>
+      <webElementGuid>14207b3d-adf9-4959-8b01-c774a6256e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::div[3]</value>
+      <webElementGuid>6d50a535-699c-4fb8-a79b-f9763b65c944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Brands'])[1]/following::div[4]</value>
+      <webElementGuid>5316f4f8-edac-4983-a0b2-db775e1cb09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/div</value>
+      <webElementGuid>276e20d8-2fba-4a5c-bd89-4c5fa9acd1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'THello Test!aswathi.s+22@webandcrafts.comDashboardProfileOrdersAddressesReviews &amp; RatingsHelp &amp; FAQsLeave a FeedbackChange PasswordLogout Home Categories Cart Wishlist Account OrdersOrder Time:All OrdersRecentDeliveredCancelledReturnedNo Orders to Show' or . = 'THello Test!aswathi.s+22@webandcrafts.comDashboardProfileOrdersAddressesReviews &amp; RatingsHelp &amp; FAQsLeave a FeedbackChange PasswordLogout Home Categories Cart Wishlist Account OrdersOrder Time:All OrdersRecentDeliveredCancelledReturnedNo Orders to Show')]</value>
+      <webElementGuid>b5515eb8-88db-438e-8e46-42d105b61eef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

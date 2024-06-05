@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_aswathi.s22webandcrafts.comEdit</name>
+   <tag></tag>
+   <elementGuidId>03301d6b-8d09-4251-bd23-5346dee2addd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.accountInfoUpdate_account_info_data__p_Rd8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;aswathi.s+22@webandcrafts.comEdit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>510102f5-c84e-41ac-8280-9627e767538b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accountInfoUpdate_account_info_data__p_Rd8</value>
+      <webElementGuid>24cc136c-7890-4397-b9f3-e75723f45494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>aswathi.s+22@webandcrafts.comEdit</value>
+      <webElementGuid>ad59ffff-f82a-4c22-be90-802765a737e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]/div[@class=&quot;layout_account_layout_content__5vlt7&quot;]/div[@class=&quot;profile_profile__54L7b&quot;]/div[@class=&quot;profile_account_info_form__jSZ1b form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;accountInfoUpdate_account_info_update__fv8DH&quot;]/div[@class=&quot;accountInfoUpdate_account_info__kAazK&quot;]/div[@class=&quot;accountInfoUpdate_account_info_data__p_Rd8&quot;]</value>
+      <webElementGuid>9cab9b58-f303-42d3-bb4d-54a6540503f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::div[1]</value>
+      <webElementGuid>db5697c4-0935-4add-901c-9872753fad5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Info'])[1]/following::div[6]</value>
+      <webElementGuid>7b01c9e9-514c-421d-b1b9-8db0f9198ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/preceding::div[1]</value>
+      <webElementGuid>d7e043da-1115-4ef3-80d2-8fa6139ec523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div</value>
+      <webElementGuid>6e094d94-27f7-4f7d-985c-be828de768e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'aswathi.s+22@webandcrafts.comEdit' or . = 'aswathi.s+22@webandcrafts.comEdit')]</value>
+      <webElementGuid>7faea617-67a3-4601-8a4d-e691874244f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

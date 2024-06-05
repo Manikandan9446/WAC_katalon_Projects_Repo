@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Add New Address_css-8mmkcg</name>
+   <tag></tag>
+   <elementGuidId>bcb04764-61de-4342-99c1-0af8143c0431</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Address'])[2]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=dialog >> svg >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>94277767-c74c-4263-b0c7-f22cff309bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>d697d018-7a86-4745-8510-3f3749c7d8d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>0e1ac135-1a93-44aa-b43f-7ffb69607e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>b85cd2c5-3101-4bb6-8c7a-f931647cf988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fca8e414-e0bb-4667-8e08-13991c0573f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>45ac3275-e228-4f0b-a245-3fd1490fb300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-8mmkcg</value>
+      <webElementGuid>ab2b7705-8c23-421f-bfba-38081aedcda9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page modal-open&quot;]/div[@class=&quot;fade emptyAddressPage_add_address_form_modal__4uqYJ modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;createNewAddressForm_location_form__DTt49&quot;]/form[1]/div[@class=&quot;addressGoogleMap_add_address_map__GbPAl&quot;]/div[@class=&quot;addressGoogleMap_add_address_map_wrapper__zYZTU&quot;]/div[@class=&quot;addressGoogleMap_map_search__p_NBL&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-t3ipsp-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-15lsz6c-indicatorContainer&quot;]/svg[@class=&quot;css-8mmkcg&quot;]</value>
+      <webElementGuid>2ed9ed4d-c143-46f4-875b-49694b866e54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Address'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>dc71b632-e8ae-4b51-853d-5188ff426bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webandcrafts'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>ebc0dc79-0dfe-4f0f-8cb1-58cb305a72b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No options'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>362df9c8-e3eb-415f-8329-5d6bab57b606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locate me'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>69cb2d90-3a3c-4ddd-a87b-5f50f881d88a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

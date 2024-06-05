@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Webandcrafts_modal-header</name>
+   <tag></tag>
+   <elementGuidId>5880b533-2461-4832-a6e9-6149829ce213</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Webandcrafts'])[2]/following::div[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.modal-header</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>798bac69-fa6b-4240-8572-f1c65b5d5945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-header</value>
+      <webElementGuid>f0889f19-08fa-4aad-ae02-b7022974b5a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page modal-open&quot;]/div[@class=&quot;fade accountInfoOtpVerifyScreen_verifyModal__mRaHu modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;accountInfoOtpVerifyScreen_verifyModalWrapper__o8MC6&quot;]/div[@class=&quot;modal-header&quot;]</value>
+      <webElementGuid>b5050b1c-1459-4cd5-89e1-4da2ea155390</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webandcrafts'])[2]/following::div[10]</value>
+      <webElementGuid>d52e92f6-356a-4420-b1d8-1d49350f9abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping &amp; Return'])[4]/following::div[11]</value>
+      <webElementGuid>4fe76293-98a9-47ab-bdbb-61157637435e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OTP Verification'])[1]/preceding::div[1]</value>
+      <webElementGuid>3be4d1fe-2328-4361-97eb-412e591af9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>568e209e-e2b4-4e30-ac61-8f69d3922e20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

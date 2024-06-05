@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>8ee5391a-8c19-4347-b9e9-109041b3a8cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.loginButton_logo_btn__xKe_a.btn-none.mw-max.p-0 > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='العربية'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.loginButton_logo_btn__xKe_a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>aff4a79f-9aa8-4052-b14f-99e3029efc43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>81a75f08-b92a-43f6-b895-fa611a0047a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>69fe1060-b9a8-4e07-94be-6878cd6b8f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 1109 1024</value>
+      <webElementGuid>01198632-331a-4b77-87aa-d63c89dbbaaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>3dcfece5-dca9-4983-988b-e6a4173da9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip compare-strip&quot;]/header[@class=&quot;header_header__P90l2 header&quot;]/div[@class=&quot;header_header_middile_wrap__Bq9eX header_home__F6rcm&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;header_main_wrap__VaeFa&quot;]/div[@class=&quot;header_right_action_wrap__fqFgj&quot;]/div[@class=&quot;loginButton_login_wrapper__6R2rL dropdown&quot;]/a[@class=&quot;loginButton_logo_btn__xKe_a btn-none mw-max p-0&quot;]/svg[1]</value>
+      <webElementGuid>7fb612df-6442-4942-afb7-93878060883a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='العربية'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>7a0d9be0-4fea-4c2a-a82b-1adbdc93afc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What are you looking for?'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>21382744-8488-4085-8b1d-17070dd1333a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>9ab2eabe-31ec-49c6-a27e-0fd078808c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::*[name()='svg'][6]</value>
+      <webElementGuid>ffc15acd-7da5-4cdc-ac65-7358f3847e6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

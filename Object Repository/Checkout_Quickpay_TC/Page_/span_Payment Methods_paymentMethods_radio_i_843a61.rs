@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Payment Methods_paymentMethods_radio_i_843a61</name>
+   <tag></tag>
+   <elementGuidId>ef9379eb-5a6a-4509-9f90-5a50360d0ea9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.paymentMethods_radio_icon__vfyVn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cash / Card On Delivery Cash / Card On Delivery&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a9f5011-a8ca-441e-aa1c-4e3927636c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paymentMethods_radio_icon__vfyVn</value>
+      <webElementGuid>d50f1d2f-3a49-46dc-b372-9095d7eeed2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page bottom_space&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;guestCheckout_guest_checkout__EkLau&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;guestCheckout_checkout_page_content__uj71W&quot;]/div[@class=&quot;payment_payment__bzh5S&quot;]/div[@class=&quot;payment_payment_wrapper__YhL3y&quot;]/div[@class=&quot;payment_payment_container__OH_nY&quot;]/div[@class=&quot;paymentMethods_payment_methods__skb0t&quot;]/div[@class=&quot;paymentMethods_payment_methods_wrapper__twnQf&quot;]/div[1]/div[@class=&quot;paymentMethods_payment_options__KOr92 active&quot;]/button[@class=&quot;btn-none active paymentMethods_payment_method__oo0U5&quot;]/label[@class=&quot;paymentMethods_payment_method_label__NQ0gA&quot;]/span[@class=&quot;paymentMethods_radio_icon__vfyVn&quot;]</value>
+      <webElementGuid>482d7ef0-6715-4e31-bcf6-fd55c62cd5f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>3f31ef2a-1695-468b-a477-cf7afa79c547</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

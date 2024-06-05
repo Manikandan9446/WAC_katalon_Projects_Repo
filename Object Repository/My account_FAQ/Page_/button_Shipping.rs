@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Shipping</name>
+   <tag></tag>
+   <elementGuidId>d51296b3-c21c-4c46-92d7-41f54edf67ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Shipping&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb39a994-b67e-4a40-aaa6-9f14a2378846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customDropDown_dropdown_btn__CXoyx btn-none </value>
+      <webElementGuid>adb0265a-c430-4239-8ade-445ed985354e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipping</value>
+      <webElementGuid>cd6ef780-d576-421d-afe4-7d5f7c5ea116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;faq_faq__8zTaY&quot;]/form[1]/div[@class=&quot;container&quot;]/div[@class=&quot;faq_drop_down_wrapper__5j7dW&quot;]/div[@class=&quot;select-input customSelect_select_input__DUokL&quot;]/div[@class=&quot;customDropDown_dropdown_main_wrap__KWIv0 drop_down_wrap  show dropdown&quot;]/div[@class=&quot;dropdown-menu show dropdown-menu-md-end&quot;]/a[@class=&quot;dropdown-item&quot;]/button[@class=&quot;customDropDown_dropdown_btn__CXoyx btn-none&quot;]</value>
+      <webElementGuid>8f761a44-871f-47e1-92e0-b0a30f2997d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::button[1]</value>
+      <webElementGuid>c819b7d0-a215-4a30-b710-6786f6503a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::button[2]</value>
+      <webElementGuid>ca83c1de-6085-49b5-8f4b-df269bc7ce60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[1]/preceding::button[1]</value>
+      <webElementGuid>aacc233d-0b63-4b43-a9f2-75e0c9072ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[2]/preceding::button[2]</value>
+      <webElementGuid>00509308-7916-4354-ba39-2ba5fb440d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipping']/parent::*</value>
+      <webElementGuid>c243fb65-51ca-4bcb-b53a-20b134f42735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/button</value>
+      <webElementGuid>8338594a-48aa-4adc-8c63-388ebf5cafee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Shipping' or . = 'Shipping')]</value>
+      <webElementGuid>fdec18da-1bd5-4338-9096-33835102d4f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

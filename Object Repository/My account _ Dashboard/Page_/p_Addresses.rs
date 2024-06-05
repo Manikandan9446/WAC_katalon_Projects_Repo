@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Addresses</name>
+   <tag></tag>
+   <elementGuidId>b3a78c1a-5b16-4cec-9aa5-cf4baf8a92d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to your Account'])[1]/following::p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Addresses&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3f23a417-c827-41df-8794-c3e290dcbbe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dashboard_link_item_text__FL8Zk</value>
+      <webElementGuid>be3aee5f-4019-4924-a716-e69bebdba6be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Addresses</value>
+      <webElementGuid>0e10775c-b1b4-4b8d-9bdc-ad38a3c0bf0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]/div[@class=&quot;layout_account_layout_content__5vlt7&quot;]/div[@class=&quot;dashboard_dashboard_wrapper__x5UuP&quot;]/div[@class=&quot;dashboard_links_wrapper__nITvN&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-4&quot;]/a[@class=&quot;dashboard_link_item__M9rMh&quot;]/p[@class=&quot;dashboard_link_item_text__FL8Zk&quot;]</value>
+      <webElementGuid>07fe0650-bfcf-4190-81e8-5e730279f9ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to your Account'])[1]/following::p[3]</value>
+      <webElementGuid>0ac11a7e-b554-46cf-b719-78fc4a22814f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/following::p[8]</value>
+      <webElementGuid>01afe6d7-ea77-4677-83a0-955b002cda2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Orders'])[1]/preceding::p[1]</value>
+      <webElementGuid>39a47aa1-d66e-4c44-83bb-7a2a51ee17d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequently Asked Questions'])[1]/preceding::p[1]</value>
+      <webElementGuid>f8be6cc1-9043-4683-b6f2-158004578c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/p</value>
+      <webElementGuid>6870f561-0fdb-4f63-ac73-58fccf30110f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Addresses' or . = 'Addresses')]</value>
+      <webElementGuid>db147f72-886a-4b56-a8da-85a941447a48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

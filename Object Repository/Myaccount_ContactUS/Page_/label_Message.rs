@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Message</name>
+   <tag></tag>
+   <elementGuidId>73e624eb-129c-4d4f-8bdc-820afa968e0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address*'])[1]/following::label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.textArea_form_not_floting_label__yGgav.form-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Message*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0a5580d8-63eb-42cb-a6f9-873a55e2a479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textArea_form_not_floting_label__yGgav form-label</value>
+      <webElementGuid>f77e4ad2-0ad2-4700-b417-a0a0f1984e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Message*</value>
+      <webElementGuid>9c14710c-1150-4654-8e30-0d96e050c98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;contactUs_contact_us___JNmP&quot;]/section[@class=&quot;contactForm_contact_us__HCpWb&quot;]/div[@class=&quot;container contactForm_contactForm_container__foWgu&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 mt-lg-1&quot;]/div[1]/div[@class=&quot;contactForm_contactForm_wraper__Zgm2C&quot;]/form[@class=&quot;contactForm_login_form__FWDa9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group text_area textArea_form_group__UIRAn&quot;]/label[@class=&quot;textArea_form_not_floting_label__yGgav form-label&quot;]</value>
+      <webElementGuid>54128428-6ba4-4707-8274-01ba50aa6ecd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address*'])[1]/following::label[2]</value>
+      <webElementGuid>785ee181-bfc9-4973-942c-675b116518df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[1]</value>
+      <webElementGuid>b54f879c-41c3-4e0a-9eee-d843300c2d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Quote'])[1]/preceding::label[1]</value>
+      <webElementGuid>a1c2e7ef-0f5f-414a-8179-7cb4c10f9e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Message*']/parent::*</value>
+      <webElementGuid>781c3c22-129e-40ec-b0f4-5877d6ff3f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/label</value>
+      <webElementGuid>d8295f59-48e8-4a13-a0a2-b0a4c7fb315f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Message*' or . = 'Message*')]</value>
+      <webElementGuid>8a2f8f05-0b0a-4ad4-8c7a-c10a606f577c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

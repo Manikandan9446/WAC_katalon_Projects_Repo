@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Shipping</name>
+   <tag></tag>
+   <elementGuidId>286b2319-efd1-4ab4-8d5e-e02820d903b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[text()='Shipping']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.stepper_step__vGn4I.stepper_active__sqmaW > p.stepper_step_label__QuVTD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Shipping&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1515fe1a-fa09-4bb3-b6f8-a62a6e802181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stepper_step_label__QuVTD</value>
+      <webElementGuid>6aa2016b-b1c7-4267-817d-a0223e936871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipping</value>
+      <webElementGuid>33dea2f5-169d-460e-be04-51a92d80decb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page bottom_space&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;guestCheckout_guest_checkout__EkLau&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;guestCheckout_checkout_page_content__uj71W&quot;]/div[@class=&quot;guestCheckout_stepper_wrapper__Lz2v8&quot;]/div[@class=&quot;stepper_stepper__1GJGB&quot;]/div[@class=&quot;d-flex align-items-center stepper_stepper_wrapper__Z2gt7&quot;]/div[@class=&quot;stepper_step__vGn4I stepper_active__sqmaW&quot;]/p[@class=&quot;stepper_step_label__QuVTD&quot;]</value>
+      <webElementGuid>bfa0c2fd-71be-4055-b5e4-08ed485dec46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::p[2]</value>
+      <webElementGuid>92e3ea05-fb41-4263-b59e-598fc43f8268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Brands'])[1]/following::p[2]</value>
+      <webElementGuid>0f4da384-3f07-4583-93f5-a9914dd27540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Shipping Method'])[1]/preceding::p[2]</value>
+      <webElementGuid>08e5201d-5fc2-4e07-856d-8225c79b5435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Delivery'])[1]/preceding::p[2]</value>
+      <webElementGuid>de50e335-e850-4e03-8cde-91d1dac33309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipping']/parent::*</value>
+      <webElementGuid>ac7fc40a-2f66-411b-95ad-8760af051692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>a19031d3-b6cc-496f-a64c-e8621bb307fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Shipping' or . = 'Shipping')]</value>
+      <webElementGuid>5fed45b6-9180-474c-9952-d3875a761301</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

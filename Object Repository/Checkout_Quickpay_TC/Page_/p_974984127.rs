@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_974984127</name>
+   <tag></tag>
+   <elementGuidId>db6fb32f-c5c1-477d-8baf-523a16b2a0eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.addressCard_phone__8nkwh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;+974984127&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e126e483-ed45-4a96-a6b0-f717663212e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>addressCard_phone__8nkwh</value>
+      <webElementGuid>78cba62e-cf52-4ed5-aa5a-3b25bc4cf191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+974984127</value>
+      <webElementGuid>dd047c65-38ad-4843-8140-4b358d88ede2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page bottom_space&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;guestCheckout_guest_checkout__EkLau&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;guestCheckout_checkout_page_content__uj71W&quot;]/div[@class=&quot;guestshipping_shipping_methods__aUhdV&quot;]/div[@class=&quot;guestshipping_shipping_methods_container__2_Al_&quot;]/div[@class=&quot;guestAddressCard_guest_address_card__4ubJG&quot;]/div[@class=&quot;guestAddressCard_address_card_wrapper__5j3tH&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;addressCard_address_card__PYkIu  address-card&quot;]/div[@class=&quot;addressCard_address__vAfEl&quot;]/div[@class=&quot;addressCard_address_contact__4OqZJ&quot;]/div[@class=&quot;addressCard_address_contact_item__DSWAc&quot;]/p[@class=&quot;addressCard_phone__8nkwh&quot;]</value>
+      <webElementGuid>c1e3443e-5651-412b-836b-dd362c22546d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::p[1]</value>
+      <webElementGuid>859b367d-3a02-425d-b963-cc53d77c72c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/following::p[2]</value>
+      <webElementGuid>362f9ef2-547d-428c-aa06-ca6a681c3580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred Delivery Time'])[1]/preceding::p[1]</value>
+      <webElementGuid>274399bc-56ce-41cc-8ecb-ed777cb27bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to payment'])[1]/preceding::p[2]</value>
+      <webElementGuid>67c545db-2585-4c86-8a20-b6e4e3757ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+974984127']/parent::*</value>
+      <webElementGuid>535c265e-eafe-46ef-8987-b074094defff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[2]/p</value>
+      <webElementGuid>9d6dbeb6-a5e4-4677-ae68-e837b571c61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '+974984127' or . = '+974984127')]</value>
+      <webElementGuid>86f9f6f9-0555-4d3f-9e10-2a101352d203</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

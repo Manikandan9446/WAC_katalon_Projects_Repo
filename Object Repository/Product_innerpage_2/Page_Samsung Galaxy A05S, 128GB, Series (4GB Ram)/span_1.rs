@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>9d2830e8-5fc9-4e31-969b-12911ebab73b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.quantityBlock_quantity___tn4C</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='quantityBlock_quantity___tn4C']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;1&quot;s >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bfb23e46-2df9-4f17-8b05-7872b9c30f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quantityBlock_quantity___tn4C</value>
+      <webElementGuid>a3fed5bc-5520-40d1-a253-dcbc8bd85731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>50046944-f3d5-408e-abc1-277f1bbb5b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;productFullDetail_product_full_detail__pQwPr pdp_page  in_stock&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;productFullDetail_product_full_detail_wrapper__cTvl6&quot;]/div[@class=&quot;productFullDetail_right_wrap__LgcNY d-none d-lg-block&quot;]/div[@class=&quot;productFullDetail_product_details_action__uTM_W&quot;]/div[@class=&quot;quantityBlock_quantity_block__UB2tZ&quot;]/div[@class=&quot;quantityBlock_quantity_box__HXxlm&quot;]/span[@class=&quot;quantityBlock_quantity___tn4C&quot;]</value>
+      <webElementGuid>e2cead4c-4cea-4827-a97e-95d1ad996e1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[1]</value>
+      <webElementGuid>c0d27f9e-4790-4ea6-84c3-5efca25b2f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::span[1]</value>
+      <webElementGuid>f726dc7c-2d6d-4ce3-bc0c-e8c50b801bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::span[1]</value>
+      <webElementGuid>daeb4649-f755-47cf-ba44-c2750f329fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/preceding::span[1]</value>
+      <webElementGuid>08292232-3905-4e76-a9ae-9dc76a0f3313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>b520f011-6c17-4b05-b33b-1e2ef38b867d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+      <webElementGuid>68b38236-e7e9-4d27-8d4b-c53a3bffb5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>0f5ea43f-8485-4735-a15c-e115101b73b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_aswathi.s22webandcrafts.com</name>
+   <tag></tag>
+   <elementGuidId>39db8e41-851f-44d7-8f63-4b94ea194039</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sidebar_email__8Rmu5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='sidebar_email__8Rmu5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=complementary >> internal:text=&quot;aswathi.s+22@webandcrafts.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>689fd151-666d-4264-829a-e058e188fab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar_email__8Rmu5</value>
+      <webElementGuid>1dea47e4-88eb-462f-907a-dc75a92421eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>aswathi.s+22@webandcrafts.com</value>
+      <webElementGuid>063104e8-3b7d-423a-9109-1d9fc33780e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/aside[@class=&quot;layout_account_layout__b_9_s&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;layout_account_layout_wrapper___uz5N&quot;]/div[@class=&quot;layout_sidebar__B3qOq&quot;]/div[@class=&quot;layout_account_sidebar__9Fw_3&quot;]/div[@class=&quot;sidebar_sidebar__Ivc6w&quot;]/div[@class=&quot;sidebar_user__cGVNg&quot;]/div[@class=&quot;sidebar_user_details__jgi4n&quot;]/div[@class=&quot;sidebar_email__8Rmu5&quot;]</value>
+      <webElementGuid>60548e28-1f74-42d1-b7ba-f9d14bbc8109</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello Test!'])[1]/following::div[1]</value>
+      <webElementGuid>6a34ed98-f081-4765-8375-00f72414bd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[2]/following::div[3]</value>
+      <webElementGuid>09ba581f-33b1-4db6-9acf-119a4400ca55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::div[1]</value>
+      <webElementGuid>c02c5293-0ab6-4a2e-9320-734c1ad9fabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[2]/preceding::div[2]</value>
+      <webElementGuid>d94860b2-23ec-44cf-ba7f-437a078477cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>cba33dba-25e3-4dbd-8eb0-a871e7a6f003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'aswathi.s+22@webandcrafts.com' or . = 'aswathi.s+22@webandcrafts.com')]</value>
+      <webElementGuid>b81dce09-b799-4452-a8e7-5851538f2ba1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

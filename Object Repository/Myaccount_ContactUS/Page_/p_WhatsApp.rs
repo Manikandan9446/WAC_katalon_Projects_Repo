@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_WhatsApp</name>
+   <tag></tag>
+   <elementGuidId>b525a3c7-5fc2-4dfd-81ec-24ad142b9380</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.contactInfo_content_title__ulVia</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;WhatsApp&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fda2f540-4453-4bfb-b83d-cd3695c68eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contactInfo_content_title__ulVia</value>
+      <webElementGuid>b33629c9-4e72-42f2-8172-b7b7eb4f947a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WhatsApp</value>
+      <webElementGuid>a34446dd-15dd-4c7e-ba71-d606d2c7b9ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;inner_page offer-strip&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;contactUs_contact_us___JNmP&quot;]/section[@class=&quot;contactInfo_contact_info_section__dbW6Y&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;contactInfo_contactInfo_list___zACV&quot;]/li[1]/div[@class=&quot;contactInfo_content_wrapper__mRoL6&quot;]/p[@class=&quot;contactInfo_content_title__ulVia&quot;]</value>
+      <webElementGuid>c4cfd5f3-1fbd-4ae4-8a48-4a24d9b0fc56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::p[1]</value>
+      <webElementGuid>3f39a72c-4d55-4455-afcc-8d43153dd9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::p[1]</value>
+      <webElementGuid>d173dea1-9848-4ede-9d26-938b8a6a1e75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info@electronyat.qa'])[1]/preceding::p[3]</value>
+      <webElementGuid>d7d3c60b-7d9a-4717-acb5-cf74133b8331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Let’s get in touch'])[1]/preceding::p[3]</value>
+      <webElementGuid>3bf7f7e8-a651-45c2-99fd-caa5c3ead50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WhatsApp']/parent::*</value>
+      <webElementGuid>1cd416f4-88ed-491d-b910-70cd5afaa3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/p</value>
+      <webElementGuid>3a67fe4c-0c68-46ac-ae96-f1b47d6b3a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'WhatsApp' or . = 'WhatsApp')]</value>
+      <webElementGuid>2642b60c-d938-4457-8a91-d5d7fdcc171c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

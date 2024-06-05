@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Al Jeryan_custom-select__input-containe_e504ed</name>
+   <tag></tag>
+   <elementGuidId>5e599e1b-8242-4c08-aeb3-c606a331afe0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-select__input-container.css-19bb58m</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a4ee67ad-d808-4ff1-9e2b-41d7eaad59d9']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.custom-select__input-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc429ba7-00c3-4831-9ba9-fc26b8d369ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select__input-container css-19bb58m</value>
+      <webElementGuid>a5d86364-3fac-41f9-8fcc-e035228cf154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a4ee67ad-d808-4ff1-9e2b-41d7eaad59d9&quot;)/div[@class=&quot;custom-select__control custom-select__control--is-focused custom-select__control--menu-is-open css-12oqisq-control&quot;]/div[@class=&quot;custom-select__value-container custom-select__value-container--has-value css-hlgwow&quot;]/div[@class=&quot;custom-select__input-container css-19bb58m&quot;]</value>
+      <webElementGuid>86cac836-8c89-4f42-8706-8f9f981b1915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a4ee67ad-d808-4ff1-9e2b-41d7eaad59d9']/div/div/div[2]</value>
+      <webElementGuid>33ccfe6d-ba78-492c-ab84-a7e17687fc24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Al Jeryan'])[1]/following::div[1]</value>
+      <webElementGuid>5debc89f-53a9-4179-8679-735b2d72ce5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zone Number*'])[1]/following::div[6]</value>
+      <webElementGuid>64a59ecc-692a-4025-bb2d-e4c27424fb07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building Number'])[1]/preceding::div[180]</value>
+      <webElementGuid>cb9f18ba-9838-49a7-bb06-287bb27a8b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>401bdea2-6516-4831-867b-cc871c9b0340</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

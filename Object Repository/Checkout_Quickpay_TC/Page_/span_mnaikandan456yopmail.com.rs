@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_mnaikandan456yopmail.com</name>
+   <tag></tag>
+   <elementGuidId>451249cb-6ba1-4674-81f3-0d48d4757a1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='We offer free pickup from our location'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.guestAddressCard_email_text__MxFCI > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;mnaikandan456@yopmail.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ef0f21ff-e7a9-419e-888e-5007c8718a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mnaikandan456@yopmail.com</value>
+      <webElementGuid>868c2276-09ad-461d-8775-7b0607852aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page bottom_space&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;guestCheckout_guest_checkout__EkLau&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;guestCheckout_checkout_page_content__uj71W&quot;]/div[@class=&quot;guestshipping_shipping_methods__aUhdV&quot;]/div[@class=&quot;guestshipping_shipping_methods_container__2_Al_&quot;]/div[@class=&quot;guestAddressCard_guest_address_card__4ubJG&quot;]/div[@class=&quot;guestAddressCard_email_card__qlwjm&quot;]/p[@class=&quot;guestAddressCard_email_text__MxFCI&quot;]/span[1]</value>
+      <webElementGuid>09cd8d1c-e977-4cbc-9ef7-43c7e06ac18b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We offer free pickup from our location'])[1]/following::span[1]</value>
+      <webElementGuid>a4510914-71a2-4b0b-9bdd-832b40ce1176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store Pickup'])[1]/following::span[2]</value>
+      <webElementGuid>fc38f48a-7ff4-4f26-804d-a3edce7e8527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/preceding::span[1]</value>
+      <webElementGuid>da9f3a3a-648e-467c-b3f7-5dcca3e9dbb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mnaikandan456@yopmail.com']/parent::*</value>
+      <webElementGuid>16000351-aac2-4e82-a859-7a1ffa3dee56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>8b17e344-8a45-417b-ba48-e89109f51574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'mnaikandan456@yopmail.com' or . = 'mnaikandan456@yopmail.com')]</value>
+      <webElementGuid>7ce63d00-64f9-4454-a61b-4ccfb9d4a944</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

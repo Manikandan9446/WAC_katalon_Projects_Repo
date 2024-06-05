@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Specifications</name>
+   <tag></tag>
+   <elementGuidId>aefe2469-7e41-4ed2-87e1-6f7ff2903298</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Storage'])[2]/following::p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Specifications&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>74c26153-b245-4af2-b70f-0ab756f2a72d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detailPageContents_accordion_content_title__1T5Pz</value>
+      <webElementGuid>89908481-2a6b-439a-9996-538b2109c2ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Specifications</value>
+      <webElementGuid>755c70ab-58c6-476b-bf26-549face4f4a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip inner_page&quot;]/main[@class=&quot;technoblue-main&quot;]/div[@class=&quot;productFullDetail_product_full_detail__pQwPr pdp_page  in_stock&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;productFullDetail_product_full_detail_wrapper__cTvl6&quot;]/div[@class=&quot;productFullDetail_left_wrap__hS70L&quot;]/div[@class=&quot;productFullDetail_product_details__mM_BA&quot;]/div[@class=&quot;detailPageContents_content_wrapper__aEuVa&quot;]/div[@class=&quot;detailPageContents_specifications__cmJUv&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-item&quot;]/p[@class=&quot;accordion-header&quot;]/button[@class=&quot;accordion-button collapsed&quot;]/p[@class=&quot;detailPageContents_accordion_content_title__1T5Pz&quot;]</value>
+      <webElementGuid>f3430d6a-e31b-4df0-a8cd-a34f17400d67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Storage'])[2]/following::p[2]</value>
+      <webElementGuid>30e1c17e-4516-49ef-9b1c-370b4cde1076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[2]/following::p[2]</value>
+      <webElementGuid>ce2a8eb3-0ecf-41e4-9a2e-b361fbdaa5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Series'])[1]/preceding::p[1]</value>
+      <webElementGuid>27df04ac-b96b-416b-8b95-109ea9392069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Galaxy A Series'])[1]/preceding::p[1]</value>
+      <webElementGuid>7a3acf55-77f0-4996-8ae4-d7058e556724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Specifications']/parent::*</value>
+      <webElementGuid>9f3e2736-5057-4ab2-b6a1-40fceb099d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p/button/p</value>
+      <webElementGuid>6a0e9987-3992-4f0f-8c15-25123ffbe6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Specifications' or . = 'Specifications')]</value>
+      <webElementGuid>f2646508-d106-4892-bef0-266f2a57357e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

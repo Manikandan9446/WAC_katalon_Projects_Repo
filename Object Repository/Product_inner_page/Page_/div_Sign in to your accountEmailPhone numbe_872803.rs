@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign in to your accountEmailPhone numbe_872803</name>
+   <tag></tag>
+   <elementGuidId>5f915b6f-ab3c-472d-b5a6-8bc8f63612a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fade.auth_auth__d095R.modal.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Webandcrafts'])[2]/following::div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=dialog</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24890229-7f93-4dc5-8d5f-d1249703848a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>50017d6d-8734-49ec-a1ce-256ec39ee2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>03393d8a-47cc-4bc0-8e32-2c2451660d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fade auth_auth__d095R modal show</value>
+      <webElementGuid>e0ca0432-9245-41cc-aeef-92cb0ea3d2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1fb382f1-ecde-4f66-8d5b-7e3a8cabb35e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in to your accountEmail/Phone numberPasswordForgot Password?Sign InThis site is protected by reCAPTCHA and the GooglePrivacy Policy andTerms of Service apply.Sign in with GoogleSign in with GoogleDon't have an account?Sign Up</value>
+      <webElementGuid>a27a4a0e-ef45-45f3-add3-76c59f952aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;offer-strip modal-open&quot;]/div[@class=&quot;fade auth_auth__d095R modal show&quot;]</value>
+      <webElementGuid>25d22a80-2e27-4f1b-b864-0491b166be77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webandcrafts'])[2]/following::div[6]</value>
+      <webElementGuid>2949d3f8-cf54-4c11-9e1f-b8976e7966ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping &amp; Return'])[4]/following::div[7]</value>
+      <webElementGuid>637dd3fb-7a23-401e-a193-c467433927f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>a559f62f-0e33-4b03-84d0-ff22e45921bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Sign in to your accountEmail/Phone numberPasswordForgot Password?Sign InThis site is protected by reCAPTCHA and the GooglePrivacy Policy andTerms of Service apply.Sign in with GoogleSign in with GoogleDon&quot; , &quot;'&quot; , &quot;t have an account?Sign Up&quot;) or . = concat(&quot;Sign in to your accountEmail/Phone numberPasswordForgot Password?Sign InThis site is protected by reCAPTCHA and the GooglePrivacy Policy andTerms of Service apply.Sign in with GoogleSign in with GoogleDon&quot; , &quot;'&quot; , &quot;t have an account?Sign Up&quot;))]</value>
+      <webElementGuid>6d0b73f3-1529-4875-9d50-c3af90b0c687</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
