@@ -83,6 +83,7 @@ try {
     email2.equals('aswathi.swebandcrafts.com')
 
     WebUI.click(findTestObject('Object Repository/Login _TCB/Page_/Click logo'))
+	//check captch
 } catch (StepFailedException d) {
     WebUI.takeScreenshot('Screenshots/ProfileValidationFailure.png')
     KeywordUtil.markFailedAndStop('Validating email address on profile page failed')
