@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='City*'])[1]/following::label[1]</value>
+         <value>//label[text()='Street']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>af499496-914d-48dc-9e2d-33bb65d47447</webElementGuid>
+      <webElementGuid>b1be1912-55f8-4240-bdf1-f99339a59512</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Street*</value>
-      <webElementGuid>e764fd36-0a82-46fb-94c9-91ba3ea75859</webElementGuid>
+      <webElementGuid>9de2c807-404b-49f4-88d6-11fd6432a2da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;inner_page modal-open&quot;]/div[@class=&quot;fade emptyAddressPage_add_address_form_modal__4uqYJ modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;createNewAddressForm_location_form__DTt49&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;textInput_text_input__v0Upl text_input&quot;]/label[1]</value>
-      <webElementGuid>fb85cf78-5689-47f6-8031-6d194c2174c3</webElementGuid>
+      <webElementGuid>c7a9e2d0-4846-4a4d-8141-8b10e16c66f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='City*'])[1]/following::label[1]</value>
-      <webElementGuid>e80d2bb9-9f42-4523-93e8-206dc577f0c4</webElementGuid>
+      <webElementGuid>54179db8-3646-47f2-81fd-ceaf7d148b8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Number'])[1]/following::label[2]</value>
-      <webElementGuid>db9a561b-8178-4cb0-a469-61943e3be8cc</webElementGuid>
+      <webElementGuid>69d5e8ea-8d38-456d-b318-94b7e4245bfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred delivery time*'])[1]/preceding::label[2]</value>
-      <webElementGuid>616aae55-0bb3-477a-b2ca-fff8ccbd8dbd</webElementGuid>
+      <webElementGuid>b35109f5-12d8-4e28-a8f0-40bf137ffd4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Street*']/parent::*</value>
-      <webElementGuid>e467e6b5-c247-4779-a621-016a7cd09336</webElementGuid>
+      <webElementGuid>11dfc9d3-6f38-4349-b415-7094c3fc7d0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/label</value>
-      <webElementGuid>12d434da-6f88-432c-a1e5-3207ef365e5f</webElementGuid>
+      <webElementGuid>66742e64-3bff-4e70-9a42-46f25db9b273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +92,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Street*' or . = 'Street*')]</value>
-      <webElementGuid>c790a2c1-5b64-4801-96f1-26b80e9b5ee5</webElementGuid>
+      <webElementGuid>857ed1b0-109a-4e82-89a1-782b8de37751</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

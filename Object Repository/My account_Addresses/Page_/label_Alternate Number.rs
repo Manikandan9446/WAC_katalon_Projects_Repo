@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Street*'])[1]/following::label[1]</value>
+         <value>//label[text()='Alternate Number']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>89ab91fb-afca-4d0e-a05b-9bf3fe5260de</webElementGuid>
+      <webElementGuid>f1572878-e7ab-4537-9b73-76492a9a2c3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Alternate Number </value>
-      <webElementGuid>c26851ef-88f8-49ae-8356-f2f826902f7f</webElementGuid>
+      <webElementGuid>25962366-c7fe-469a-bd8b-0ea1d9f54b9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;inner_page modal-open&quot;]/div[@class=&quot;fade emptyAddressPage_add_address_form_modal__4uqYJ modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;createNewAddressForm_location_form__DTt49&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;form-group mobile_input customPhoneNumberInput_form_group__yI6eV&quot;]/div[1]/label[1]</value>
-      <webElementGuid>e1f73d69-c80d-4afc-b2c9-4eaa4bbaa8eb</webElementGuid>
+      <webElementGuid>dfc4eee0-5fc9-4060-a7eb-32f5844f69f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Street*'])[1]/following::label[1]</value>
-      <webElementGuid>78e02707-899d-4383-9541-88dc4b78234e</webElementGuid>
+      <webElementGuid>80620f5f-5f79-4a93-aa1f-02b5dee015fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='City*'])[1]/following::label[2]</value>
-      <webElementGuid>22b29d7b-e60e-467b-a90c-3de737e45fe2</webElementGuid>
+      <webElementGuid>20360f97-c241-4dcb-9355-cd378ba89a78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred delivery time*'])[1]/preceding::label[1]</value>
-      <webElementGuid>f064f282-f219-4ef9-ab44-f4a0edda9d81</webElementGuid>
+      <webElementGuid>acf955fa-9494-4366-b367-cdbd3b0c6efb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Morning'])[1]/preceding::label[2]</value>
-      <webElementGuid>581dbb09-d74d-47e7-b074-96087b6bae57</webElementGuid>
+      <webElementGuid>3b09bcaf-43dc-4a45-95fa-c006ffb8497e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Alternate Number']/parent::*</value>
-      <webElementGuid>076af1bd-0957-49e6-be82-f267f8f79be8</webElementGuid>
+      <webElementGuid>9b55a245-d690-4817-bd90-68206db43f47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div/label</value>
-      <webElementGuid>887c17aa-cb87-433b-a3ac-a390d98f0921</webElementGuid>
+      <webElementGuid>b76be1a6-2635-4017-b05b-94e0d7f07c16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = ' Alternate Number ' or . = ' Alternate Number ')]</value>
-      <webElementGuid>1423b6c6-32e5-4e3b-af26-036ebccd8449</webElementGuid>
+      <webElementGuid>97ec9d10-54cb-464a-b4ce-a8da3f59045d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Street*'])[1]/following::label[2]</value>
+         <value>//label[text()='Preferred delivery time*']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>a67ac027-da90-482a-a788-2bdf01daaf50</webElementGuid>
+      <webElementGuid>4580c192-55d0-4ce8-a341-8332b32a3e3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>09206949-fa26-4754-aeb1-cdb75d5174a8</value>
-      <webElementGuid>adaa9e6c-e000-448d-841d-13e62cc21ea8</webElementGuid>
+      <webElementGuid>f1c67ae8-814f-4b09-9f47-c764cdfc1b34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Preferred delivery time*</value>
-      <webElementGuid>0237f371-7f02-40d9-89fc-0d03d3cfc4df</webElementGuid>
+      <webElementGuid>d3c91c7d-dc19-4c48-902c-6ebc6a6122b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;inner_page modal-open&quot;]/div[@class=&quot;fade emptyAddressPage_add_address_form_modal__4uqYJ modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;createNewAddressForm_location_form__DTt49&quot;]/form[1]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;select-input customSelect_select_input__DUokL&quot;]/label[1]</value>
-      <webElementGuid>142d939d-edfe-46ab-acd4-3ccc0915beb0</webElementGuid>
+      <webElementGuid>5fa4c12e-af7a-4936-82f1-1958ce2e2998</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Street*'])[1]/following::label[2]</value>
-      <webElementGuid>01d91246-790e-4c64-b3e7-02f11212bdf4</webElementGuid>
+      <webElementGuid>f572f0d5-c599-4c19-9ba0-6c91763fe10e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Morning'])[1]/preceding::label[1]</value>
-      <webElementGuid>c37a1783-08dc-4fcf-a9e1-726a6b4d6fab</webElementGuid>
+      <webElementGuid>6593aea5-e6b1-4dde-aacb-6ae2e27209d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/preceding::label[1]</value>
-      <webElementGuid>ba002b88-dcc7-41ad-964b-9edfd626d4b7</webElementGuid>
+      <webElementGuid>3daf4b20-2f4a-446c-88da-ee78bc32b174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Preferred delivery time*']/parent::*</value>
-      <webElementGuid>1b1fd453-57a9-4c86-a516-5801f9584f9c</webElementGuid>
+      <webElementGuid>f9fe5592-eda5-4216-987b-77571d1d6df6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/label</value>
-      <webElementGuid>745da02a-e493-4e5e-bb5b-4eeea1e5332c</webElementGuid>
+      <webElementGuid>30bd23c6-1e04-4ce9-81e3-49ade608ae51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Preferred delivery time*' or . = 'Preferred delivery time*')]</value>
-      <webElementGuid>e87d5073-3089-47a0-aba7-d7bac72ffbd6</webElementGuid>
+      <webElementGuid>a1991f58-2cc7-46f1-8bfe-98a93310941d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
